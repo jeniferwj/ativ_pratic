@@ -6,6 +6,13 @@ h1 {
     color: #524ecc;
     margin-top: 30px;
 }
+p {
+    font-family: Arial, sans-serif;
+    font-size: 10px;
+    text-align: center;
+    color: #2a277a;
+    margin-top: 30px;
+}
 img {
     display: block;
     margin: 20px auto;
@@ -16,6 +23,7 @@ nav {
     margin-top: 20px;
 }
 nav a {
+    font-family: Arial, sans-serif;
     text-decoration: none;
     color: #6663ca;
     font-weight: bold;

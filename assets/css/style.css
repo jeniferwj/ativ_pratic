@@ -1,0 +1,29 @@
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 32px;
+    text-align: center;
+    color: #333;
+    margin-top: 30px;
+}
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 32px;
+    text-align: center;
+    color: #333;
+    margin-top: 30px;
+}
+img {
+    display: block;
+    margin: 20px auto;
+    width: 200px;
+}
+nav {
+    text-align: center;
+    margin-top: 20px;
+}
+nav a {
+    text-decoration: none;
+    color: #4e73df;
+    font-weight: bold;
+    margin: 0 10px;
+}

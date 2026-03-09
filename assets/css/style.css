@@ -3,15 +3,14 @@ h1 {
     font-size: 32px;
     font-weight: bold;
     text-align: center;
-    color: #524ecc;
+    color: #2723ac;
     margin-top: 30px;
 }
 p {
     font-family: Arial, sans-serif;
     font-size: 10px;
     text-align: center;
-    color: #2a277a;
-    margin-top: 30px;
+    color: #2723ac;
 }
 img {
     display: block;
@@ -25,7 +24,7 @@ nav {
 nav a {
     font-family: Arial, sans-serif;
     text-decoration: none;
-    color: #6663ca;
+    color: #3733b0;
     font-weight: bold;
     margin: 0 10px;
 }

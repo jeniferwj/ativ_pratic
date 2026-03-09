@@ -1,8 +1,9 @@
 h1 {
     font-family: Arial, sans-serif;
     font-size: 32px;
+    font-weight: bold;
     text-align: center;
-    color: #333;
+    color: #201d74;
     margin-top: 30px;
 }
 h1 {
@@ -15,7 +16,7 @@ h1 {
 img {
     display: block;
     margin: 20px auto;
-    width: 100px;
+    width: 200px;
 }
 nav {
     text-align: center;
@@ -23,7 +24,7 @@ nav {
 }
 nav a {
     text-decoration: none;
-    color: #4e73df;
+    color: #2b4fbd;
     font-weight: bold;
     margin: 0 10px;
 }
